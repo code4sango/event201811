@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+
+    <name>龍田古道今昔マップ</name>
+
+    <Style id="iconStyle">
+      <IconStyle>
+        <Icon>
+          <href>https://code4sango.github.io/event201811/icon/momiji.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <Folder>
+      <name>今昔マップ</name>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description>解説</description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>
+            135.6866416,34.5887642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+
+  </Document>
+</kml>
