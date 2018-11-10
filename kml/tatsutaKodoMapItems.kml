@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>龍田古道今昔マップ</name>
+    <Style id="iconStyle">
+      <IconStyle>
+        <Icon>
+          <href>https://code4sango.github.io/event201811/icon/momiji.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>龍田古道今昔マップ</name>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/001.jpg">解説...<br>撮影日時：2018:11:10 10:20:40]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.6858821388889,34.58824966666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/002.jpg">解説...<br>撮影日時：2018:11:10 10:28:41]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68240894444443,34.58770144444445,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/003.jpg">解説...<br>撮影日時：2018:11:10 10:31:19]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68157497222222,34.58867175,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/004.jpg">解説...<br>撮影日時：2018:11:10 10:39:04]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68146016666665,34.58979680555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/005.jpg">解説...<br>撮影日時：2018:11:10 10:40:02]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68123033333333,34.58997630555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/006.jpg">解説...<br>撮影日時：2018:11:10 10:41:50]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68122841666667,34.59017408333334,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/007.jpg">解説...<br>撮影日時：2018:11:10 10:46:13]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67942599999998,34.590757833333335,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/008.jpg">解説...<br>撮影日時：2018:11:10 10:50:55]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67920813888887,34.59053291666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/009.jpg">解説...<br>撮影日時：2018:11:10 10:54:50]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67841883333332,34.589914722222225,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/010.jpg">解説...<br>撮影日時：2018:11:10 10:57:28]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67765455555553,34.589598861111114,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/011.jpg">解説...<br>撮影日時：2018:11:10 11:01:17]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67738938888888,34.589621083333334,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/012.jpg">解説...<br>撮影日時：2018:11:10 11:18:06]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67416594444444,34.589868555555555,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/013.jpg">解説...<br>撮影日時：2018:11:10 11:19:34]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67415102777778,34.58980263888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/014.jpg">解説...<br>撮影日時：2018:11:10 11:30:18]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67825208333332,34.589827194444446,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/015.jpg">解説...<br>撮影日時：2018:11:10 11:45:54]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.6846185277778,34.587552861111114,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/016.jpg">解説...<br>撮影日時：2018:11:10 11:46:07]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.6846185277778,34.587552861111114,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/017.jpg">解説...<br>撮影日時：2018:11:10 11:50:54]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68644827777777,34.58909675,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/018.jpg">解説...<br>撮影日時：2018:11:10 11:53:11]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68802891666667,34.59002275,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/019.jpg">解説...<br>撮影日時：2018:11:10 11:53:57]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68831397222223,34.59024383333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/020.jpg">解説...<br>撮影日時：2018:11:10 11:54:21]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68812391666668,34.59033180555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/021.jpg">解説...<br>撮影日時：2018:11:10 12:01:32]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68855391666668,34.592818694444446,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/022.jpg">解説...<br>撮影日時：2018:11:10 12:02:13]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68861338888888,34.59301188888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/023.jpg">解説...<br>撮影日時：2018:11:10 12:04:33]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.6879666388889,34.59311788888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/024.jpg">解説...<br>撮影日時：2018:11:10 12:04:58]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.6879666388889,34.59311788888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/025.jpg">解説...<br>撮影日時：2018:11:10 12:05:52]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68820427777777,34.59294852777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/026.jpg">解説...<br>撮影日時：2018:11:10 12:09:45]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68855783333333,34.591903611111114,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/027.jpg">解説...<br>撮影日時：2018:11:10 10:31:19]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68157497222222,34.58867175,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/028.jpg">解説...<br>撮影日時：2018:11:10 10:39:04]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68146016666665,34.58979680555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/029.jpg">解説...<br>撮影日時：2018:11:10 10:40:02]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68123033333333,34.58997630555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/030.jpg">解説...<br>撮影日時：2018:11:10 10:41:50]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68122841666667,34.59017408333334,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/031.jpg">解説...<br>撮影日時：2018:11:10 10:46:13]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67942599999998,34.590757833333335,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/032.jpg">解説...<br>撮影日時：2018:11:10 10:50:55]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67920813888887,34.59053291666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/033.jpg">解説...<br>撮影日時：2018:11:10 10:54:50]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67841883333332,34.589914722222225,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/034.jpg">解説...<br>撮影日時：2018:11:10 10:57:28]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67765455555553,34.589598861111114,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/035.jpg">解説...<br>撮影日時：2018:11:10 11:01:17]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67738938888888,34.589621083333334,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/036.jpg">解説...<br>撮影日時：2018:11:10 11:18:06]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67416594444444,34.589868555555555,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/037.jpg">解説...<br>撮影日時：2018:11:10 11:19:34]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67415102777778,34.58980263888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/038.jpg">解説...<br>撮影日時：2018:11:10 11:30:18]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.67825208333332,34.589827194444446,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/039.jpg">解説...<br>撮影日時：2018:11:10 11:45:54]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.6846185277778,34.587552861111114,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/040.jpg">解説...<br>撮影日時：2018:11:10 11:46:07]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.6846185277778,34.587552861111114,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/041.jpg">解説...<br>撮影日時：2018:11:10 11:50:54]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68644827777777,34.58909675,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/042.jpg">解説...<br>撮影日時：2018:11:10 11:53:11]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68802891666667,34.59002275,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/043.jpg">解説...<br>撮影日時：2018:11:10 11:53:57]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68831397222223,34.59024383333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/044.jpg">解説...<br>撮影日時：2018:11:10 11:54:21]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68812391666668,34.59033180555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/045.jpg">解説...<br>撮影日時：2018:11:10 12:01:32]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68855391666668,34.592818694444446,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/046.jpg">解説...<br>撮影日時：2018:11:10 12:02:13]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68861338888888,34.59301188888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/047.jpg">解説...<br>撮影日時：2018:11:10 12:04:33]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.6879666388889,34.59311788888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/048.jpg">解説...<br>撮影日時：2018:11:10 12:04:58]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.6879666388889,34.59311788888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/049.jpg">解説...<br>撮影日時：2018:11:10 12:05:52]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68820427777777,34.59294852777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>史跡・モニュメント</name>
+        <description><![CDATA[<img src="https://code4sango.github.io/event201811/image/050.jpg">解説...<br>撮影日時：2018:11:10 12:09:45]]></description>
+        <styleUrl>#iconStyle</styleUrl>
+        <Point>
+          <coordinates>135.68855783333333,34.591903611111114,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

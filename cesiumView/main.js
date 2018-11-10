@@ -4,7 +4,7 @@
   var viewer = new Cesium.Viewer("cesium");
 
   viewer.dataSources.add(
-    Cesium.KmlDataSource.load("../kml/tatsutaKodoRoute.kml")
+    Cesium.KmlDataSource.load("../kml/tatsutaKodoMapItems.kml")
   );
 
   viewer.camera.flyTo({
