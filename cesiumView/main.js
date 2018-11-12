@@ -4,11 +4,12 @@
   var viewer = new Cesium.Viewer("cesium");
 
   viewer.dataSources.add(
-    Cesium.KmlDataSource.load("../kml/tatsutaKodoMapItems.kml")
+    Cesium.KmlDataSource.load("../kml/tatsutaKodoSummary.kml")
   );
 
   viewer.camera.flyTo({
-    destination: Cesium.Cartesian3.fromDegrees(135.6895, 34.576, 2000),
+    destination: Cesium.Cartesian3.fromDegrees(135.685, 34.576, 2000),
+    duration: 5,
     orientation: {
       heading: 0,
       pitch: -0.8,
